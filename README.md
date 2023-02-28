@@ -1,7 +1,5 @@
-############ PROJETO DE REDUÇÃO DE CUSTO ###########
+############ Comunicação MODBUS entre Coel e ESP8266 ###########
 
 - Arquivos com testes unitários de cada modulo
-
-- Junção de todos os testes unitários
 
 --- Atualizado 10/10/2022
